@@ -1,0 +1,21 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "A Pen created on CodePen.io. Original URL: [https://codepen.io/mubangadv/pen/rXrOQa](https://codepen.io/mubangadv/pen/rXrOQa).",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sweetalert2/theme-borderless": "^5.0.10",
+    "express": "^4.17.3",
+    "sanitize-html": "^2.7.0",
+    "socket.io": "^4.4.1",
+    "sweetalert2": "^11.4.8"
+  }
+}
